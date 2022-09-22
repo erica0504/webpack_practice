@@ -1,0 +1,2 @@
+#Live serverのコマンド
+npx webpack serve --mode=development
